@@ -8,7 +8,7 @@ body{
     width: 100%;
     margin: 0px;
     padding-top: 0%;
-    background:rgb(13, 94, 83);
+    background:rgb(6, 112, 116);
     position: fixed;
     top: 0;
     font-size: larger;
@@ -52,10 +52,11 @@ body{
     position: absolute;
 }
 .Questions ul li{
-    background-color: rgb(72, 153, 153);
+    background-color: rgb(94, 172, 172);
     border-radius: 10px;
     height: 80px;
     width: 100%;
+    margin: 10px;
 }
 .Questions ul li a{
     text-decoration: none;
