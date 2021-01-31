@@ -3,6 +3,7 @@ body{
     padding: 0;
 }
 .top{
+    z-index: 100;
     position: absolute;
     height: 70px;
     width: 100%;
